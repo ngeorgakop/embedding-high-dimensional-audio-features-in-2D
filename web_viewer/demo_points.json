@@ -1,0 +1,62 @@
+[
+  {
+    "path": "demo/kick_001.wav",
+    "point": [0.2, 0.3],
+    "color": [0.8, 0.2, 0.1]
+  },
+  {
+    "path": "demo/kick_002.wav", 
+    "point": [0.25, 0.35],
+    "color": [0.9, 0.1, 0.2]
+  },
+  {
+    "path": "demo/snare_001.wav",
+    "point": [0.7, 0.2],
+    "color": [0.1, 0.8, 0.3]
+  },
+  {
+    "path": "demo/snare_002.wav",
+    "point": [0.75, 0.18],
+    "color": [0.2, 0.9, 0.1]
+  },
+  {
+    "path": "demo/hat_001.wav",
+    "point": [0.8, 0.8],
+    "color": [0.1, 0.2, 0.9]
+  },
+  {
+    "path": "demo/hat_002.wav",
+    "point": [0.85, 0.75],
+    "color": [0.2, 0.1, 0.8]
+  },
+  {
+    "path": "demo/bass_001.wav",
+    "point": [0.1, 0.9],
+    "color": [0.7, 0.7, 0.1]
+  },
+  {
+    "path": "demo/bass_002.wav",
+    "point": [0.15, 0.85],
+    "color": [0.8, 0.8, 0.2]
+  },
+  {
+    "path": "demo/clap_001.wav",
+    "point": [0.9, 0.1],
+    "color": [0.9, 0.1, 0.9]
+  },
+  {
+    "path": "demo/clap_002.wav",
+    "point": [0.85, 0.15],
+    "color": [0.8, 0.2, 0.8]
+  },
+  {
+    "path": "demo/tom_001.wav",
+    "point": [0.4, 0.6],
+    "color": [0.5, 0.9, 0.5]
+  },
+  {
+    "path": "demo/tom_002.wav",
+    "point": [0.45, 0.65],
+    "color": [0.4, 0.8, 0.6]
+  }
+]
