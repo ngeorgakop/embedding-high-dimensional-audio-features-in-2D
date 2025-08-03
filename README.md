@@ -1,3 +1,7 @@
+# Acknowledgement
+
+The following is mostly based on open source implementations, but heavily inspired by my internship (E. Kokkinis) and undergraduate (EZ Psarakis) supervisors to whom I will always feel grateful for their invaluable support during my first steps in the field.
+
 # Audio Embedding and t-SNE Visualization
 
 A Python package for extracting audio features and creating t-SNE embeddings for similarity visualization. This project maps audio files to 2D/3D coordinates where similar sounds are placed closer together.
